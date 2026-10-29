@@ -82,8 +82,7 @@ flowchart LR
   [integrate Model Fleet](docs/MODEL_FLEET_INTEGRATION.md).
 - **Deploy:** [AWS EKS](docs/AWS.md), [Proxmox/K3s](docs/PROXMOX.md), or the
   [local kind environment](infrastructure/kind/README.md).
-- **Publish responsibly:** [publishing and evidence](docs/PUBLISHING.md) and the
-  [verification guide](docs/VERIFICATION.md).
+f
 
 ## Local quick start
 
