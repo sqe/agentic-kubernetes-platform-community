@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+*.egg-info/
+.terraform/
+*.tfstate*
+terraform.tfvars
+*.tfplan
+kubeconfig
+/kind
+.env
+.DS_Store
