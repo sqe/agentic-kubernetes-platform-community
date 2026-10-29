@@ -4,7 +4,7 @@ An Apache-2.0 reference platform for event-driven agents, GPU inference, and
 training on either AWS EKS or Proxmox-hosted K3s. It uses the same application
 contract on both targets and swaps only infrastructure adapters:
 
-![Conceptual platform architecture](docs/assets/platform-architecture.png)
+![Agentic Kubernetes Platform architecture](https://platformrnd.com/images/agentic-kubernetes-platform.png)
 
 _Conceptual illustration; see the verification guide for reproducible evidence._
 
